@@ -1,4 +1,4 @@
-.buildpath
-.project
-.settings/
-
+_site
+.sass-cache
+.jekyll-metadata
+/.vs
